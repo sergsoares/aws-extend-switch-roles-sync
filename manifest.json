@@ -1,0 +1,7 @@
+{
+  "name": "AWS Extend Switch Role Sync",
+  "version": "1.0",
+  "description": "Extension created to Sync configuration to AWS Extend Switch Role!",
+  "options_page": "options.html",
+  "manifest_version": 2
+}
